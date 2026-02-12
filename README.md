@@ -1,1 +1,1 @@
-# About-me
+My first time coding was back in middle school. When I was 13, I accoomplished my first task of coding, a remote control car that I myself built using python which infact was my first ever programming language I learned.
